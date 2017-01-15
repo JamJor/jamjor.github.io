@@ -1,4 +1,10 @@
 .container {
   font-family: courier new;
-  font-size: 12px;  
+  font-size: 12px;
+  text-align: left;
+}
+
+h1 {
+  font-size: 12px;
+  font-weight: bold;
 }
