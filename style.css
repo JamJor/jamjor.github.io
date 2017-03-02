@@ -1,11 +1,8 @@
-font-family: 'Montserrat', sans-serif;
-font-family: 'Inconsolata', monospace;
-
 .container {
   padding-top: 50px;
   max-width: 500px;
   margin: auto;
-  font-family: courier new;
+  font-family: 'Inconsolata', monospace;
   font-size: 14px;
   text-align: left;
 }
